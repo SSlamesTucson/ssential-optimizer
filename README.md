@@ -7,5 +7,3 @@ optimizer for windows, open source, coded on C#
 Disclaimer
 This software is provided "as is", without warranty of any kind. The developer is not responsible for any damage, data loss, or system instability caused by the use of these tweaks. By using Essential Optimizer, you acknowledge that you are performing system modifications at your own risk. It is highly recommended to create a System Restore Point before applying any changes.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-optimizer.slnx - source code |
-ssential optimizer - program
